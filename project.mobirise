@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 64,
     "versionPublish": "4.6.0",
@@ -3119,7 +3119,7 @@
         }
       ]
     },
-    "page5.html": {
+    "about.html": {
       "settings": {
         "meta_descr": "",
         "title": "About Us - Web Maistre Inc.",
