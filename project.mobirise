@@ -38,7 +38,9 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/web-meistre-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     ".html.html": {
