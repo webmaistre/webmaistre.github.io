@@ -2968,11 +2968,12 @@ body {
 .cid-qNcQXxmmcP {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #000000;
+  background-color: #232323;
 }
 .cid-qNcQXxmmcP .testimonial-text {
   font-style: italic;
   font-weight: 300;
+  color: #ffffff;
 }
 .cid-qNcQXxmmcP .mbr-author-name {
   font-weight: bold;
@@ -2997,6 +2998,22 @@ body {
 }
 .cid-qNcQXLIiYV .mbr-author-desc {
   color: #232;
+}
+.cid-qOgnuGfKKa {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-qOgnuGfKKa .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+}
+.cid-qOgnuGfKKa .mbr-author-name {
+  font-weight: bold;
+}
+.cid-qOgnuGfKKa .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
 }
 .cid-qN8reISy8l .navbar {
   background: #ffffff;
